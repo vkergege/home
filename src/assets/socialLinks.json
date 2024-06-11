@@ -12,12 +12,6 @@
     "url": "https://res.abeim.cn/api/qq/?qq=2810370905"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "2810370905@qq.com"
-  },
-  {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~猜到了",
